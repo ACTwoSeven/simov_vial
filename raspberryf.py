@@ -76,7 +76,7 @@ class LoRaNodeManager:
         }
 
         # Inicializar el bot de Telegram
-        self.telegram_token = '7286163016:AAHkq44HCgiEH-rNTsFp-MDUHdfh4NmrAJI'
+        self.telegram_token = 'XXXXXXXXXXX'
         self.telegram_chat_id = '-1002178641456'
         self.bot = Bot(token=self.telegram_token)
 
